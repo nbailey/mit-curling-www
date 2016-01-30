@@ -29,12 +29,12 @@ TWITTER_USERNAME = 'mitcurling'
 TWITTER_WIDGET_ID = '693521676382965761'
 
 DISPLAY_PAGES_ON_MENU = False
-DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_ON_SIDEBAR = False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 RECENT_POST_COUNT = 3
 
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['image', 'extra/custom.css']
+STATIC_PATHS = ['images', 'files', 'extra/custom.css']
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     }

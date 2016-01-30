@@ -5,4 +5,4 @@ content/images/**/*.jpg
 content/images/**/*.png
 output
 *.pid
-fabfile.py
+*.pyc

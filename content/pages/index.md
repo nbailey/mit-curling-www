@@ -7,8 +7,26 @@ The MIT Curling Club is an ASA-recognized student group that... well... goes cur
 
 Our main activities include:
 
-* Weekly curling practice during the season running from mid-October through the end of March. Practice is held on Fridays and typically lasts from 3:00-7:30pm.
+* Weekly curling practice during the season running from mid-October through the end of March. Practice is held on Fridays at [Broomstones Curling Club](http://www.broomstones.com) in Wayland and typically lasts from 3:00-7:30pm.
 * Introductory events each semester to introduce those unfamiliar with the sport to the basics of curling.
-* Competition in college bonspiels both regionally with other schools in the Northeast and nationally at the [US College Curling National Championships](www.collegecurlingusa.org).
+* Competition in college bonspiels both regionally with other schools in the Northeast and nationally at the [US College Curling National Championships](http://www.collegecurlingusa.org).
 
-If you are interested in joining, simply [contact us](/contact) and we will add you to the mailing list.
+# How to Join
+
+MIT Curling Club is always accepting new members from the MIT community, but you can also feel free to contact us if you're from a nearby school with no curling program of your own.
+
+Our members range from amazing, experienced curlers to complete beginners. If you're a curler, then joining us is a great way to find a game. If you've never curled before, then our experienced curlers are ready and willing to teach you! If you're still hazy about what this curling thing is all about and simply want more information, then send us an email and we'll answer your questions.
+
+The bottom line is that curling is a great sport and you should join us and try it out! Just drop us a line [via email](mailto:curling-owner@mit.edu) and we'll add you to our mailing list so you can stay up to speed on all the club happenings.
+
+# Tournament Results
+
+#### National College Curling Champions, 2011 ####
+
+#### National College Curling 3rd Place, 2013 ####
+
+#### National College Curling 4th Place, 2014 ####
+
+#### National College Curling 3rd Place, 2015 ####
+
+View results and recaps from other tournaments in [our archives](/category/news.html).
