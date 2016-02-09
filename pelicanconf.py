@@ -42,6 +42,7 @@ EXTRA_PATH_METADATA = {
 MENUITEMS = (
     ('People', '/people'),
     ('Links', '/links'),
+    ('Calendar', '/calendar'),
     ('Contact Us', '/contact'),
     )
 
