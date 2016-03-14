@@ -21,12 +21,14 @@ The bottom line is that curling is a great sport and you should join us and try 
 
 # Tournament Results
 
-#### National College Curling Champions, 2011 ####
+## USA College Curling Championships ##
 
-#### National College Curling 3rd Place, 2013 ####
+#### 1st Place, 2011
 
-#### National College Curling 4th Place, 2014 ####
+#### 3rd Place, 2013
 
-#### National College Curling 3rd Place, 2015 ####
+#### 3rd Place, 2015
+
+#### 3rd Place, 2016
 
 View results and recaps from other tournaments in [our archives](/category/news.html).

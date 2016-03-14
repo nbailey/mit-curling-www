@@ -43,6 +43,7 @@ MENUITEMS = (
     ('People', '/people'),
     ('Links', '/links'),
     ('Calendar', '/calendar'),
+    ('Media', '/media'),
     ('Contact Us', '/contact'),
     )
 
