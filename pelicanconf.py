@@ -20,10 +20,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}'
-ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
+ARTICLE_URL = '{category}/{slug}'
+ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
+
+# PLUGIN_PATHS = ['../pelican-plugins']
+# PLUGINS = ['pelican-albums']
+# ALBUM_PATH = '/images/gallery/'
 
 TWITTER_USERNAME = 'mitcurling'
 TWITTER_WIDGET_ID = '693521676382965761'
@@ -39,10 +43,13 @@ EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     }
 
+# TEMPLATE_PAGES = {'content/templates/gallery.html': 'output/gallery/index.html'}
+
 MENUITEMS = (
     ('People', '/people'),
     ('Links', '/links'),
     ('Calendar', '/calendar'),
+    # ('Gallery', '/gallery'),
     ('Media', '/media'),
     ('Contact Us', '/contact'),
     )
