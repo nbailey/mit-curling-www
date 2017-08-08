@@ -20,10 +20,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-ARTICLE_URL = '{category}/{slug}'
-ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}.html'
+ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}'
+ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{slug}'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}.html'
 
 # PLUGIN_PATHS = ['../pelican-plugins']
 # PLUGINS = ['pelican-albums']
