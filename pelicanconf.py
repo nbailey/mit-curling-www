@@ -25,8 +25,12 @@ ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 
-# PLUGIN_PATHS = ['../pelican-plugins']
-# PLUGINS = ['pelican-albums']
+# Attempt to fix pelican-bootstrap3 error: https://github.com/getpelican/pelican-themes/issues/482
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['i18n_subsites', ]
+JINJA_ENVIRONMENT ={
+	'extensions': ['jinja2.ext.i18n'],
+}
 # ALBUM_PATH = '/images/gallery/'
 
 TWITTER_USERNAME = 'mitcurling'
