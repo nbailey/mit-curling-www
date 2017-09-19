@@ -1,1 +1,1 @@
-©2016 MIT Curling Club. All rights reserved.
+©2017 MIT Curling Club. All rights reserved.
