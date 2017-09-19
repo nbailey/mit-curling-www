@@ -54,6 +54,7 @@ MENUITEMS = (
     ('Links', '/links'),
     ('Calendar', '/calendar'),
     # ('Gallery', '/gallery'),
+    ('FAQ', '/faq'),
     ('Media', '/media'),
     ('Contact Us', '/contact'),
     )
