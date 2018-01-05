@@ -50,13 +50,13 @@ EXTRA_PATH_METADATA = {
 # TEMPLATE_PAGES = {'content/templates/gallery.html': 'output/gallery/index.html'}
 
 MENUITEMS = (
-    ('People', '/people'),
-    ('Links', '/links'),
-    ('Calendar', '/calendar'),
+    ('People', '/people.html'),
+    ('Links', '/links.html'),
+    ('Calendar', '/calendar.html'),
     # ('Gallery', '/gallery'),
-    ('FAQ', '/faq'),
-    ('Media', '/media'),
-    ('Contact Us', '/contact'),
+    ('FAQ', '/faq.html'),
+    ('Media', '/media.html'),
+    ('Contact Us', '/contact.html'),
     )
 
 # Blogroll
