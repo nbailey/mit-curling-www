@@ -3,4 +3,4 @@ MIT Curling Club
 
 curling.mit.edu
 
-Nate was here.
+Nate was here. Writing documentation.
