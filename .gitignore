@@ -1,8 +1,8 @@
 __pycache__
 cache
-content/files/*.pdf
-content/images/**/*.jpg
-content/images/**/*.png
+content/files/
+content/images/
 output
 *.pid
 *.pyc
+*~
