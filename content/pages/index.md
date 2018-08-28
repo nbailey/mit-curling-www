@@ -1,7 +1,11 @@
-title: Welcome to MIT Curling!
+title: 
 URL: 
 slug: index
 save_as: index.html
+
+![](images/frontpage.png)
+
+# Welcome to MIT Curling!
 
 ### 2011 National Champions
 
