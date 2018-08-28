@@ -53,7 +53,7 @@ MENUITEMS = (
     ('People', '/people.html'),
     ('Links', '/links.html'),
     ('Calendar', '/calendar.html'),
-    # ('Gallery', '/gallery'),
+    ('Gallery', '/gallery.html'),
     ('FAQ', '/faq.html'),
     ('Media', '/media.html'),
     ('Contact Us', '/contact.html'),

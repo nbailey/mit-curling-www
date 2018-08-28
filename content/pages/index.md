@@ -1,34 +1,29 @@
-title: Home
-URL:
+title: Welcome to MIT Curling!
+URL: 
 slug: index
 save_as: index.html
 
-The MIT Curling Club is an ASA-recognized student group that... well... goes curling. All MIT students are welcome to join regardless of skill or experience. Interested students from other nearby schools that don't have a curling program should also feel free to contact us by emailing [the officers mailing list](mailto:curling-owner@mit.edu).
+### 2011 National Champions
 
-Our main activities include:
+### 3rd Place: 2013, 2015, 2016
 
-* Weekly curling practice during the season running from mid-October through the end of March. Practice is held on Fridays at [Broomstones Curling Club](http://www.broomstones.com) in Wayland and typically lasts from 3:00-7:30pm.
-* Introductory events each semester to introduce those unfamiliar with the sport to the basics of curling.
-* Competition in college bonspiels both regionally with other schools in the Northeast and nationally at the [US College Curling National Championships](http://www.collegecurlingusa.org).
+### Nationals Participants: 2014, 2017, 2018
 
-# How to Join
+We are a [club sport](https://clubsports.mit.edu/) that... well... goes curling!
 
-To sign up for our mailing list and let us know your interest/experience level, fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdh9PnNvJg60phe6eYWpnX5pDfun8lDJ3gHYN3Mw5zJQVXIBg/viewform?usp=sf_link)!
+All MIT students, undergraduate or graduate, prior curling experience or not, are welcome to join. Our season runs from late September to early April, and our main activities include:
 
-MIT Curling Club is always accepting new members from the MIT community, but you can also feel free to contact us if you're from a nearby school with no curling program of your own.
+* Practices every Friday from 4-6pm at [Broomstones Curling Club](http://www.broomstones.com) in Wayland.
+* Hosting Learn-To-Curl events during each season (generally once in October and once in February/March) to introduce curling to new recruits and to other members of the MIT community.
+* Competing at [USA College Curling](http://collegecurlingusa.org/) tournaments around the northeast from Maine to New York to Connecticut in order to earn an invitation to the USA College Curling Nationals.
+* Promoting this life long, surprisingly addictive sport around campus.
 
-Our members range from amazing, experienced curlers to complete beginners. If you're a curler, then joining us is a great way to find a game. If you've never curled before, then our experienced curlers are ready and willing to teach you! If you're still hazy about what this curling thing is all about and simply want more information, check out [the FAQ](/faq). If you don't find a sufficient answer there, contact us [via email](mailto:curling-owner@mit.edu).
+### Want to join?
 
-# Tournament Results
+Just fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdh9PnNvJg60phe6eYWpnX5pDfun8lDJ3gHYN3Mw5zJQVXIBg/viewform?usp=sf_link) and we'll be in touch. No prior experience is necessary. Our members range from veteran curlers to complete beginners. If you're a curler, then joining us is an easy (and relatively cheap) way to find a game. If you've never curled before, then our coaches and experienced curlers are more than happy to teach you!
 
-## USA College Curling Championships ##
+### Have more questions?
 
-#### 1st Place, 2011
+Take a look at our [FAQ](/faq), check us out on [Facebook]() or [Twitter](), or contact our officers directly via [email](mailto:curling-owner@mit.edu). We’re always happy to answer questions about our club specifically or the sport generally. Additionally, feel free to get in touch if you're from a nearby school with no curling program of your own.
 
-#### 3rd Place, 2013
-
-#### 3rd Place, 2015
-
-#### 3rd Place, 2016
-
-View results and recaps from other tournaments in [our archives](/category/news.html).
+See you on the ice!
