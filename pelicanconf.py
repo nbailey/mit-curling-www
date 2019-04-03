@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}'
 ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
-PAGE_URL = '{slug}'
+PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}.html'
 
 # Attempt to fix pelican-bootstrap3 error: https://github.com/getpelican/pelican-themes/issues/482
