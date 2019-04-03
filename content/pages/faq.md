@@ -76,4 +76,4 @@ To play in competitions that qualify for the national championship this year, yo
 
 ###Sounds like the best club at MIT. How do I get in touch with you?
 
-Very astute observation. You can let us know you're interested (and join the mailing list) by filling out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdh9PnNvJg60phe6eYWpnX5pDfun8lDJ3gHYN3Mw5zJQVXIBg/viewform). If you have any other questions, please don’t hesitate to email the executive board at curling-owner@mit.edu .
+Very astute observation. You can let us know you're interested (and join the mailing list) by emailing us at curling-owner@mit.edu .
