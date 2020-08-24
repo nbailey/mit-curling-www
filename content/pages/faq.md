@@ -3,6 +3,10 @@ slug: faq
 save_as: faq.html
 modified: 2017-09-19 16:30
 
+## COVID-19 Update
+
+As announced <a href="https://www.teamusa.org/USA-Curling/Features/2020/August/18/College-Curling-Goes-Virtual-for-Fall-Semester?fbclid=IwAR2roQkpBbjVVc0Q9IjCQUXpPn17xvfXsMbUYbzREz0PltRf657DJA8tllo" target="_blank">here</a>, college curling will be virtual (at least for the fall). What will being a part of a virtual college curling team entail? At this point we aren't so sure, but we know there will be some online intercollegiate competitions in addition to some informal get-togethers with the team. If you can't wait to try ecurling or just want to hang out with cool people, we would be happy to send you more information as we find out more. You can let us know you're interested (and join the mailing list) by emailing us at curling-owner@mit.edu .
+
 ## How to Play
 
 ###So, what's this curling thing anyway?
