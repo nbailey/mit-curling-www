@@ -4,6 +4,9 @@ modified: 2016-03-14 16:25
 
 Every once in a while a local news agency decides to write a story or make a piece dedicated to college curling. Here are some entertaining ones featuring MIT:
 
+### MIT News
+[Featured video: Throwing stones](https://news.mit.edu/2019/featured-video-throwing-stones-mit-curling-0404) - April 2019
+
 ### CBS Minnesota
 
 [College Curlers Talk Fashion, Competition And More](http://minnesota.cbslocal.com/2016/03/12/college-curlers/) - March 2016 [[youtube]](https://www.youtube.com/watch?v=Bts0zysVs_M)
