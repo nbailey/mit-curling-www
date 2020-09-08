@@ -57,6 +57,7 @@ MENUITEMS = (
     ('FAQ', '/faq.html'),
     ('Media', '/media.html'),
     ('Contact Us', '/contact.html'),
+    ('Accessibility', 'http://accessibility.mit.edu'),
     )
 
 # Blogroll
