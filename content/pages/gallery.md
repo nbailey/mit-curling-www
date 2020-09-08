@@ -1,7 +1,7 @@
 title: Gallery
 slug: gallery
 
-![Image 1](images/gallery/001.JPG)
+![Image 1](images/gallery/001.jpg)
 
 ![Image 2](images/gallery/002.jpg)
 
@@ -9,7 +9,7 @@ slug: gallery
 
 ![Image 4](images/gallery/004.jpg)
 
-![Image 5](images/gallery/005.JPG)
+![Image 5](images/gallery/005.jpg)
 
 ![Image 6](images/gallery/006.jpg)
 
@@ -19,11 +19,11 @@ slug: gallery
 
 ![Image 9](images/gallery/009.jpg)
 
-![Image 10](images/gallery/010.JPG)
+![Image 10](images/gallery/010.jpg)
 
 ![Image 11](images/gallery/011.jpg)
 
-![Image 12](images/gallery/012.jpeg)
+![Image 12](images/gallery/012.jpg)
 
 ![Image 13](images/gallery/013.jpg)
 
