@@ -1,11 +1,10 @@
-title: MIT Curling
+title: Welcome to MIT Curling
 URL: curling.mit.edu
+modified: 2021-08-16 23:00
 slug: index
 save_as: index.html
 
-![](images/frontpage.png)
-
-# Welcome to MIT Curling!
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Wt-hVvToG-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### COVID-19 Impact on Curling 2020-21
 Hello prospective curlers! Please see our COVID-19 information in the [FAQ](/faq).
