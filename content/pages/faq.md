@@ -76,7 +76,7 @@ At the same time, curling is easy to learn, but hard to master. While you can de
 
 ### I’m an undergrad/grad student/post-doc/researcher/alumnus, can I join?
 
-To play in competitions that qualify for the national championship this year, you have to be a full time student (eiher undergraduate or graduate). If you’re a non-student affiliated with MIT, you’re still welcome to come to practices to learn to play the sport, but you unfortunately can’t join us at the college tournaments.
+To play in competitions that qualify for the national championship this year, you have to be a full-time student (either undergraduate or graduate). If you’re a non-student affiliated with MIT, you’re still welcome to come to practices to learn to play the sport, but you unfortunately can’t join us at the college tournaments.
 
 ###Sounds like the best club at MIT. How do I get in touch with you?
 
