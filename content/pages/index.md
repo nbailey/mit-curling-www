@@ -6,8 +6,8 @@ save_as: index.html
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Wt-hVvToG-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### COVID-19 Impact on Curling 2020-21
-Hello prospective curlers! Please see our COVID-19 information in the [FAQ](/faq.html).
+### COVID-19 Impact on Curling
+Hello prospective curlers! Recent announcements on the impact of COVID-19 on curling are available [here](/tag/covid19.html).
 
 ### MIT Curling Wins Bronze at USA College Curling Nationals 2019
 
