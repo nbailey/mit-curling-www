@@ -1,4 +1,4 @@
 MIT Curling Club
 ================
 
-curling.mit.edu
+[curling.mit.edu](http://curling.mit.edu)

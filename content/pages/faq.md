@@ -3,9 +3,11 @@ slug: faq
 save_as: faq.html
 modified: 2017-09-19 16:30
 
+<!--
 ## COVID-19 Update
 
 As announced <a href="https://www.teamusa.org/USA-Curling/Features/2020/August/18/College-Curling-Goes-Virtual-for-Fall-Semester?fbclid=IwAR2roQkpBbjVVc0Q9IjCQUXpPn17xvfXsMbUYbzREz0PltRf657DJA8tllo" target="_blank">here</a>, college curling will be virtual (at least for the fall). What will being a part of a virtual college curling team entail? There will likely be some online intercollegiate competitions in addition to some informal get-togethers with the team. This is a special opportunity to try e-curling on a collegiate level and learn the sport if you could not join our practices before due to time conflicts. If you want to watch professional curling competitions together or just want to hang out with cool people, we would also be glad to have you. You can let us know you're interested (and join the mailing list) by emailing us at curling-owner@mit.edu.
+-->
 
 ## How to Play
 
@@ -76,7 +78,7 @@ At the same time, curling is easy to learn, but hard to master. While you can de
 
 ### I’m an undergrad/grad student/post-doc/researcher/alumnus, can I join?
 
-To play in competitions that qualify for the national championship this year, you have to be a full time student (eiher undergraduate or graduate). If you’re a non-student affiliated with MIT, you’re still welcome to come to practices to learn to play the sport, but you unfortunately can’t join us at the college tournaments.
+To play in competitions that qualify for the national championship this year, you have to be a full-time student (either undergraduate or graduate). If you’re a non-student affiliated with MIT, you’re still welcome to come to practices to learn to play the sport, but you unfortunately can’t join us at the college tournaments.
 
 ###Sounds like the best club at MIT. How do I get in touch with you?
 

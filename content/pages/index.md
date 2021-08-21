@@ -1,14 +1,13 @@
-title: MIT Curling
+title: Welcome to MIT Curling
 URL: curling.mit.edu
+modified: 2021-08-16 23:00
 slug: index
 save_as: index.html
 
-![](images/frontpage.png)
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Wt-hVvToG-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Welcome to MIT Curling!
-
-### COVID-19 Impact on Curling 2020-21
-Hello prospective curlers! Please see our COVID-19 information in the [FAQ](/faq).
+### COVID-19 Impact on Curling
+Hello prospective curlers! Recent announcements on the impact of COVID-19 on curling are available [here](/tag/covid19.html).
 
 ### MIT Curling Wins Bronze at USA College Curling Nationals 2019
 
@@ -37,6 +36,6 @@ Just email us at [curling-owner@mit.edu](mailto:curling-owner@mit.edu) and we'll
 
 ### Have more questions?
 
-Take a look at our [FAQ](/faq), check us out on [Facebook](https://www.facebook.com/mitcurlingclub) or [Twitter](https://twitter.com/mitcurling), or contact our officers directly via [email](mailto:curling-owner@mit.edu). We’re always happy to answer questions about our club specifically or the sport generally. Additionally, feel free to get in touch if you're from a nearby school with no curling program of your own.
+Take a look at our [FAQ](/faq.html), check us out on [Facebook](https://www.facebook.com/mitcurlingclub) or [Twitter](https://twitter.com/mitcurling), or contact our officers directly via [email](mailto:curling-owner@mit.edu). We’re always happy to answer questions about our club specifically or the sport generally. Additionally, feel free to get in touch if you're from a nearby school with no curling program of your own.
 
 See you on the ice!
